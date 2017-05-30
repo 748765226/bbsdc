@@ -30,7 +30,7 @@ var StartLayer = cc.Layer.extend(-{
             anchorY:0.5
         });
         this.addChild(bkImage);
-    }}
+    }
 
 
                         
